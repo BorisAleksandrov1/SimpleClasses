@@ -1,0 +1,14 @@
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.AssemblyInfoInputs.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.AssemblyInfo.cs
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\bin\Debug\net9.0\Difference.exe
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\bin\Debug\net9.0\Difference.deps.json
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\bin\Debug\net9.0\Difference.runtimeconfig.json
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\bin\Debug\net9.0\Difference.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\bin\Debug\net9.0\Difference.pdb
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\refint\Difference.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.pdb
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\Difference.genruntimeconfig.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Difference\obj\Debug\net9.0\ref\Difference.dll
