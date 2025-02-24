@@ -1,0 +1,15 @@
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.AssemblyInfoInputs.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.AssemblyInfo.cs
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.sourcelink.json
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\bin\Debug\net9.0\Newspaper.exe
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\bin\Debug\net9.0\Newspaper.deps.json
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\bin\Debug\net9.0\Newspaper.runtimeconfig.json
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\bin\Debug\net9.0\Newspaper.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\bin\Debug\net9.0\Newspaper.pdb
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\refint\Newspaper.dll
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.pdb
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\Newspaper.genruntimeconfig.cache
+C:\Users\Admin\Codes\SchoolTests\SimpleClasses\Newspaper\obj\Debug\net9.0\ref\Newspaper.dll
